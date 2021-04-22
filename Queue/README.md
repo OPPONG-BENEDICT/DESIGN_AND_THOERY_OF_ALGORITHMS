@@ -1,5 +1,3 @@
-# DESIGN_AND_THOERY_OF_ALGORITHMS
- 
 steps to run the program
 
 1. install intellij IDE
